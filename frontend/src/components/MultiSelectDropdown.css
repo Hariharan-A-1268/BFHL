@@ -1,0 +1,13 @@
+.dropdown-container {
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  height: 100px;
+  font-family: Arial, sans-serif;
+}

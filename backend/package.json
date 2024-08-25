@@ -1,0 +1,18 @@
+{
+  "name": "bajaj-finserv",
+  "version": "1.0.0",
+  "description": "an rest api enpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "start-server": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hariharan-a",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
