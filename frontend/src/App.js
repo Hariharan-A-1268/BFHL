@@ -16,7 +16,7 @@ function App() {
   const handleJsonSubmit = async (input) => {
     setJsonInput(input);
     try {
-      const result = await fetch("https://bfhl-rho.vercel.app/bfhl", {
+      const result = await fetch("https://bfhl-o31p.onrender.com/bfhl", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(input),
